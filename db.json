@@ -1,8 +1,6 @@
 {
   "products":
   [
- 
-  
   {
     "id": 1,
     "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
@@ -101,6 +99,6 @@
     "category": "electronics",
     "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
     "rating": "9/10"
-  },
+  }
     ]
 }
